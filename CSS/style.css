@@ -15,12 +15,15 @@
         display: none;
     }
 
+    
+
     #banner {
-        background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/sst-fondo1.png);
+        background-image: url(https://mariana304.github.io/security_and_health_at_work_/IMG/sst-fondo1.png);
         display: flex;
         position: relative;
-        padding-left: 60px;
+        padding-left: 60px;   
     }
+
 
     #p-banner {
         color: #ffff;
@@ -47,7 +50,6 @@
         font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         padding-left: 25px;
         padding-right: 25px;
-
     }
 
     #text-first-section {
@@ -113,8 +115,10 @@
         font-size: 16px;
     }
 
+    
+
     #banner-fourth-section {
-        background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/sst-fondo-banner-21.png);
+        background-image: url(https://mariana304.github.io/security_and_health_at_work_/IMG/sst-fondo-banner-21.png);
         display: flex;
         position: relative;
         padding-left: 60px;
@@ -394,7 +398,12 @@
 
         #bg-banner-movile {
             display: block;
-            background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/fondo-banner-movile.png);
+            background-image: url(https://mariana304.github.io/security_and_health_at_work_/IMG/fondo-banner-movile.png);
+
+
+           
+
+            
         }
 
 
