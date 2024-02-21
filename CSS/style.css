@@ -6,6 +6,30 @@
         padding-bottom: 30px;
     }
 
+
+
+
+
+
+    @media (max-width: 1400px) {
+        /* Establece un ancho mínimo para evitar que el contenido se reduzca demasiado */
+        #container {
+          min-width: 1030px;
+        }
+      }/*LISTO*/
+    
+      @media(min-width: 1500px ){
+        #container {
+            width: 1300px;/*RESVISAR!*/
+            margin: auto;
+            margin-top: 50px;
+        }
+    }
+
+
+
+
+
     #first-section {
         background: white;
     }
