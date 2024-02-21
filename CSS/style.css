@@ -16,7 +16,7 @@
     }
 
     #banner {
-        background-image: url(/IMG/sst-fondo\ 1.png);
+        background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/sst-fondo1.png);
         display: flex;
         position: relative;
         padding-left: 60px;
@@ -114,7 +114,7 @@
     }
 
     #banner-fourth-section {
-        background-image: url(/IMG/sst-fondo-banner-2\ 1.png);
+        background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/sst-fondo-banner-21.png);
         display: flex;
         position: relative;
         padding-left: 60px;
@@ -394,7 +394,7 @@
 
         #bg-banner-movile {
             display: block;
-            background-image: url(/IMG/fondo-banner-movile.png);
+            background-image: url(https://github.com/Mariana304/security_and_health_at_work_/blob/main/IMG/fondo-banner-movile.png);
         }
 
 
